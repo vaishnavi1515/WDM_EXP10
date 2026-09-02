@@ -30,5 +30,6 @@
 <img width="1136" height="574" alt="image" src="https://github.com/user-attachments/assets/569064da-205d-4ad9-9c8f-e58313e4909c" />
 
 <img width="747" height="984" alt="image" src="https://github.com/user-attachments/assets/6485eb0d-9b3a-4947-aaf7-9e17eb56626f" />
+
 ### Result:
 Thus, Sentimental Analysis for the given data using Rapidminer is done successfully.
